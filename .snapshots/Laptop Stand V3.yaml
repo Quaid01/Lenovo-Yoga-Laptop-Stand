@@ -1,6 +1,6 @@
 v: 2
-timestamp: '2026-07-28T22:07:09.861570'
-uid: 8f0e76bf-eb95-4c44-9a2b-61bcf5e25eb8
+timestamp: '2026-07-28T23:17:44.309796'
+uid: 1310b019-4c93-4d28-a979-869e09969e81
 objects:
 - name: VarSet
   id: 3729
@@ -36883,7 +36883,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.GroundedJoint object at 0x000001DFB358D690>
+          value: <JointObject.GroundedJoint object at 0x00000298B3C17F50>
           freecad_type: JointObject.GroundedJoint
       group: Base
 - name: lowerCurveL
@@ -36937,13 +36937,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.1707593139455998e-14 mm
+          value: 1.17e-14 mm
         Base.y:
           type: QUANTITY
-          value: -4.2782150169064706e-15 mm
+          value: -4.3e-15 mm
         Base.z:
           type: QUANTITY
-          value: -1.2803983944876983e-13 mm
+          value: -1.28e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37022,13 +37022,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 2.2933074222371737e-14 mm
+          value: 2.29e-14 mm
         Base.y:
           type: QUANTITY
-          value: -1.7954475192397294e-14 mm
+          value: -1.8e-14 mm
         Base.z:
           type: QUANTITY
-          value: -4.1339210418039317e-13 mm
+          value: -4.134e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37107,13 +37107,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 9.223224446261554e-14 mm
+          value: 9.22e-14 mm
         Base.y:
           type: QUANTITY
-          value: -9.668971204173158e-15 mm
+          value: -9.7e-15 mm
         Base.z:
           type: QUANTITY
-          value: -3.726986792882305e-13 mm
+          value: -3.727e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37192,13 +37192,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.433504945626821e-13 mm
+          value: 1.434e-13 mm
         Base.y:
           type: QUANTITY
-          value: -4.536415816621817e-15 mm
+          value: -4.5e-15 mm
         Base.z:
           type: QUANTITY
-          value: -2.962369920863153e-13 mm
+          value: -2.962e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37277,13 +37277,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.8035049456268207e-13 mm
+          value: 1.804e-13 mm
         Base.y:
           type: QUANTITY
-          value: -4.77872622250555e-15 mm
+          value: -4.8e-15 mm
         Base.z:
           type: QUANTITY
-          value: -2.982424194439161e-13 mm
+          value: -2.982e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37362,13 +37362,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.025881904510213306 mm
+          value: -0.0258819045102133 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000002389 mm
+          value: -0.1000000000000239 mm
         Base.z:
           type: QUANTITY
-          value: -0.09659258262937505 mm
+          value: -0.096592582629375 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37447,13 +37447,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.025881904510346988 mm
+          value: -0.025881904510347 mm
         Base.y:
           type: QUANTITY
           value: -0.1000000000000424 mm
         Base.z:
           type: QUANTITY
-          value: -0.09659258262916254 mm
+          value: -0.0965925826291625 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37532,13 +37532,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.025881904510087927 mm
+          value: -0.0258819045100879 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000010432 mm
+          value: -0.1000000000001043 mm
         Base.z:
           type: QUANTITY
-          value: -0.09659258262909844 mm
+          value: -0.0965925826290984 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37733,7 +37733,7 @@ objects:
           value: 70.63270365596247 mm
         Base.y:
           type: QUANTITY
-          value: 4.1289439073245535e-15 mm
+          value: 4.1e-15 mm
         Base.z:
           type: QUANTITY
           value: 2.499999999999998 mm
@@ -37758,7 +37758,7 @@ objects:
           value: 70.63270365596249 mm
         Base.y:
           type: QUANTITY
-          value: 1.5689059020493696e-16 mm
+          value: 2e-16 mm
         Base.z:
           type: QUANTITY
           value: 2.500000000000003 mm
@@ -37767,20 +37767,20 @@ objects:
           value: 270.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 6.123233995736766e-17
+          value: 1.0e-16
         Rotation.Axis.y:
           type: FLOAT
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 6.123233995736766e-17
+          value: 1.0e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFACE4E490>
+          value: <JointObject.Joint object at 0x00000298B3C17750>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -38005,7 +38005,7 @@ objects:
           value: 71.79738935892384 mm
         Base.y:
           type: QUANTITY
-          value: 1.616647650012107e-15 mm
+          value: 1.6e-15 mm
         Base.z:
           type: QUANTITY
           value: 11.346666218300857 mm
@@ -38014,13 +38014,13 @@ objects:
           value: 105.00000000000006 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -8.198019036063123e-17
+          value: -1.0e-16
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.1056933373779075e-16
+          value: -1.0e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -38030,7 +38030,7 @@ objects:
           value: 71.79738935892382 mm
         Base.y:
           type: QUANTITY
-          value: 3.653140215740397e-15 mm
+          value: 3.7e-15 mm
         Base.z:
           type: QUANTITY
           value: 11.346666218300806 mm
@@ -38042,7 +38042,7 @@ objects:
           value: -0.6087614290087215
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.0710270093931663e-16
+          value: -1.0e-16
         Rotation.Axis.z:
           type: FLOAT
           value: 0.7933533402912345
@@ -38052,7 +38052,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAE13F050>
+          value: <JointObject.Joint object at 0x00000298C6F9B810>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -38286,13 +38286,13 @@ objects:
           value: 105.00000000000009 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -8.198019036063121e-17
+          value: -9.999999999999995e-17
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.105693337377907e-16
+          value: -9.999999999999995e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -38324,7 +38324,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAE0F46D0>
+          value: <JointObject.Joint object at 0x00000298B3C16C50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -38549,7 +38549,7 @@ objects:
           value: -121.38777589888987 mm
         Base.y:
           type: QUANTITY
-          value: 1.226648939185524e-14 mm
+          value: 1.23e-14 mm
         Base.z:
           type: QUANTITY
           value: 63.11047523880497 mm
@@ -38558,13 +38558,13 @@ objects:
           value: 105.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -8.198019036063116e-17
+          value: -9.999999999999995e-17
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.1056933373779081e-16
+          value: -9.999999999999995e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -38574,7 +38574,7 @@ objects:
           value: -121.3877758988899 mm
         Base.y:
           type: QUANTITY
-          value: 1.3781123437571808e-14 mm
+          value: 1.38e-14 mm
         Base.z:
           type: QUANTITY
           value: 63.11047523880488 mm
@@ -38586,7 +38586,7 @@ objects:
           value: -0.6087614290087211
         Rotation.Axis.y:
           type: FLOAT
-          value: 5.04446634806578e-17
+          value: 9.999999999999995e-17
         Rotation.Axis.z:
           type: FLOAT
           value: 0.7933533402912349
@@ -38596,7 +38596,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB0078C10>
+          value: <JointObject.Joint object at 0x00000298B3C16710>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -38821,7 +38821,7 @@ objects:
           value: -130.8289187371588 mm
         Base.y:
           type: QUANTITY
-          value: 1.2322941036586838e-14 mm
+          value: 1.23e-14 mm
         Base.z:
           type: QUANTITY
           value: 55.866031541636964 mm
@@ -38836,7 +38836,7 @@ objects:
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.1000000000000001e-16
+          value: -1.0e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -38846,7 +38846,7 @@ objects:
           value: -130.82891873715877 mm
         Base.y:
           type: QUANTITY
-          value: 1.2080630630703098e-14 mm
+          value: 1.21e-14 mm
         Base.z:
           type: QUANTITY
           value: 55.866031541636964 mm
@@ -38861,14 +38861,14 @@ objects:
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.1000000000000001e-16
+          value: -1.0e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB3586B90>
+          value: <JointObject.Joint object at 0x00000298B3C16290>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -39127,20 +39127,20 @@ objects:
           value: 255.00000000030164 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 6.123233995736766e-17
+          value: 1.0e-16
         Rotation.Axis.y:
           type: FLOAT
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 4.698522698664674e-17
+          value: 0.0
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB007B590>
+          value: <JointObject.Joint object at 0x00000298B3C15CD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -39399,20 +39399,20 @@ objects:
           value: 255.00000000030164 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 6.123233995736766e-17
+          value: 1.0e-16
         Rotation.Axis.y:
           type: FLOAT
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 4.698522698664674e-17
+          value: 0.0
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAE0F4D90>
+          value: <JointObject.Joint object at 0x00000298B34D9F50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -39671,20 +39671,20 @@ objects:
           value: 284.9999999996984 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -6.123233995736766e-17
+          value: -9.999999999999995e-17
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 7.979953907044502e-17
+          value: 9.999999999999995e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAE1AB190>
+          value: <JointObject.Joint object at 0x00000298B3C15310>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -39804,10 +39804,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.02588190450973276 mm
+          value: -0.0258819045097328 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000097892 mm
+          value: -0.1000000000009789 mm
         Base.z:
           type: QUANTITY
           value: -0.0965925826257874 mm
@@ -39889,13 +39889,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.02588190451013117 mm
+          value: -0.0258819045101312 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000004608 mm
+          value: -0.1000000000000461 mm
         Base.z:
           type: QUANTITY
-          value: -0.09659258262920689 mm
+          value: -0.0965925826292069 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -39974,10 +39974,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.025881904510237218 mm
+          value: -0.0258819045102372 mm
         Base.y:
           type: QUANTITY
-          value: -0.09999999999998971 mm
+          value: -0.0999999999999897 mm
         Base.z:
           type: QUANTITY
           value: -0.0965925826294665 mm
@@ -40059,13 +40059,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.8526757337259407e-14 mm
+          value: -1.85e-14 mm
         Base.y:
           type: QUANTITY
           value: -0.1999999999999922 mm
         Base.z:
           type: QUANTITY
-          value: -5.921052661332041e-13 mm
+          value: -5.921e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40144,13 +40144,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.8326757337260102e-14 mm
+          value: -1.83e-14 mm
         Base.y:
           type: QUANTITY
           value: -0.2000000000000108 mm
         Base.z:
           type: QUANTITY
-          value: -5.87599838775603e-13 mm
+          value: -5.876e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40229,13 +40229,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -2.2267573372581905e-15 mm
+          value: -2.2e-15 mm
         Base.y:
           type: QUANTITY
           value: -0.1999999999999939 mm
         Base.z:
           type: QUANTITY
-          value: -5.441889840604011e-13 mm
+          value: -5.442e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40314,13 +40314,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.5979470993587346e-14 mm
+          value: -1.6e-14 mm
         Base.y:
           type: QUANTITY
           value: -0.2000000000000024 mm
         Base.z:
           type: QUANTITY
-          value: -5.378889840604854e-13 mm
+          value: -5.379e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40399,13 +40399,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 2.498848456872916e-14 mm
+          value: 2.5e-14 mm
         Base.y:
           type: QUANTITY
           value: -0.2000000000000638 mm
         Base.z:
           type: QUANTITY
-          value: -3.466747752716636e-13 mm
+          value: -3.467e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40484,7 +40484,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -2.2637659991143225e-13 mm
+          value: -2.264e-13 mm
         Base.y:
           type: QUANTITY
           value: 579.8 mm
@@ -40732,7 +40732,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DF3C7C6F90>
+          value: <JointObject.Joint object at 0x00000298B3C150D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41004,7 +41004,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB3586410>
+          value: <JointObject.Joint object at 0x00000298B3C14A10>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41276,7 +41276,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAE7ACD90>
+          value: <JointObject.Joint object at 0x00000298B3C14510>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41548,7 +41548,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB358EAD0>
+          value: <JointObject.Joint object at 0x00000298B3C17D50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41771,20 +41771,20 @@ objects:
           value: 284.9999999996984 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -6.123233995736766e-17
+          value: -9.999999999999995e-17
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 7.979953907044502e-17
+          value: 9.999999999999995e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAFE13710>
+          value: <JointObject.Joint object at 0x00000298C707B150>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -42018,13 +42018,13 @@ objects:
           value: 104.99999999999987 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -6.920787228399707e-17
+          value: -1.0e-16
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -3.5497530241547697e-16
+          value: -4.0e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -42046,7 +42046,7 @@ objects:
           value: -0.6087614290087203
         Rotation.Axis.y:
           type: FLOAT
-          value: 8.772055025465274e-17
+          value: 1.0e-16
         Rotation.Axis.z:
           type: FLOAT
           value: 0.7933533402912355
@@ -42056,7 +42056,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAE0F6290>
+          value: <JointObject.Joint object at 0x00000298B3BF7610>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -42290,13 +42290,13 @@ objects:
           value: 270.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 2.2000000000000002e-16
+          value: 2.0e-16
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -2.2000000000000002e-16
+          value: -2.0e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -42315,20 +42315,20 @@ objects:
           value: 90.00000000000013 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -2.2000000000000007e-16
+          value: -2.0e-16
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -2.1999999999999958e-16
+          value: -2.0e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAE7ACC90>
+          value: <JointObject.Joint object at 0x00000298B3BF7390>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44132,7 +44132,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB358EC90>
+          value: <JointObject.Joint object at 0x00000298B3BF7310>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44404,7 +44404,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB0037890>
+          value: <JointObject.Joint object at 0x00000298B34FA8D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44676,7 +44676,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAE7D3450>
+          value: <JointObject.Joint object at 0x00000298B3BF6E50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44948,7 +44948,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAD982250>
+          value: <JointObject.Joint object at 0x00000298B3BF6E10>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -50869,13 +50869,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.03440044793780537 mm
+          value: -0.0344004479378054 mm
         Base.y:
           type: QUANTITY
           value: 284.79999999999984 mm
         Base.z:
           type: QUANTITY
-          value: -0.16129734390462003 mm
+          value: -0.16129734390462 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -51070,7 +51070,7 @@ objects:
           value: 2.499999999999993 mm
         Base.y:
           type: QUANTITY
-          value: 3.299999999999998e-17 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
           value: 2.294506920509194 mm
@@ -51085,7 +51085,7 @@ objects:
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.0999999999999998e-16
+          value: 1.0e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -51104,20 +51104,20 @@ objects:
           value: 15.000000000000416 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -8.275541818361159e-16
+          value: -7.999999999999955e-16
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.2287262338174746e-16
+          value: -9.999999999999944e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAE0F7C90>
+          value: <JointObject.Joint object at 0x00000298B3BF6C90>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -51241,7 +51241,7 @@ objects:
           value: 0.1305261922200681
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.4555768020976414e-15
+          value: 1.5e-15
         Rotation.Axis.z:
           type: FLOAT
           value: 0.9914448613738083
@@ -51323,7 +51323,7 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.13052619222004816
+          value: 0.1305261922200482
         Rotation.Axis.y:
           type: FLOAT
           value: 0.0
@@ -51408,10 +51408,10 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.13052619222004944
+          value: 0.1305261922200494
         Rotation.Axis.y:
           type: FLOAT
-          value: -2.6051655260958276e-16
+          value: -3.0e-16
         Rotation.Axis.z:
           type: FLOAT
           value: 0.9914448613738107
@@ -51598,7 +51598,7 @@ objects:
           value: 2.499999999999986 mm
         Base.y:
           type: QUANTITY
-          value: 4.9289619279663035e-31 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
           value: 2.1445069205091976 mm
@@ -51607,13 +51607,13 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 9.55261252416069e-32
+          value: 0.0
         Rotation.Axis.y:
           type: FLOAT
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.0999999999999982e-16
+          value: 1.0e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -51632,20 +51632,20 @@ objects:
           value: 15.000000000002267 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.1175970840068029e-14
+          value: -1.1199999999999928e-14
         Rotation.Axis.y:
           type: FLOAT
           value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.542344103962347e-15
+          value: -1.4999999999999903e-15
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB0077C90>
+          value: <JointObject.Joint object at 0x00000298B3BF6AD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -51870,7 +51870,7 @@ objects:
           value: -2.5 mm
         Base.y:
           type: QUANTITY
-          value: -2.842170943040401e-14 mm
+          value: -2.84e-14 mm
         Base.z:
           type: QUANTITY
           value: 2.144506920509194 mm
@@ -51879,13 +51879,13 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -3.0814879110195774e-33
+          value: -0.0
         Rotation.Axis.y:
           type: FLOAT
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.1000000000000001e-16
+          value: 1.0e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -51907,17 +51907,17 @@ objects:
           value: 0.9914448613738104
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.603809565810887e-17
+          value: -0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.13052619222005185
+          value: -0.1305261922200519
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFAFDCED90>
+          value: <JointObject.Joint object at 0x00000298C690AE50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -52142,7 +52142,7 @@ objects:
           value: 2.5 mm
         Base.y:
           type: QUANTITY
-          value: 3.053113317719181e-32 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
           value: 2.1445069205091944 mm
@@ -52157,7 +52157,7 @@ objects:
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.1000000000000001e-16
+          value: 1.0e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -52179,17 +52179,17 @@ objects:
           value: 0.9914448613738106
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.6038095658108993e-17
+          value: -0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.13052619222005074
+          value: -0.1305261922200507
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB358EED0>
+          value: <JointObject.Joint object at 0x00000298B3BF67D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -52415,7 +52415,7 @@ objects:
           value: -43.98779888159275 mm
         Base.y:
           type: QUANTITY
-          value: 5.684341886080802e-14 mm
+          value: 5.68e-14 mm
         Base.z:
           type: QUANTITY
           value: 37.11221572618183 mm
@@ -52462,7 +52462,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001DFB0080D10>
+          value: <JointObject.Joint object at 0x00000298B3BF65D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -52519,6 +52519,4956 @@ objects:
         .:
           type: BOOL
           value: false
+      group: Base
+- name: Analysis
+  id: 4407
+  type_id: Fem::FemAnalysis
+  properties:
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Solid Pencil Holder
+      group: Base
+    Uid:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: 6e60e0ee-2b57-4c32-bfc1-13104c1bb144
+      group: Base
+- name: CCX_Results
+  id: 4434
+  type_id: Fem::FemResultObjectPython
+  properties:
+    Eigenmode:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 0
+      group: Data
+    EigenmodeFrequency:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 0.0
+      group: Data
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: CCX_Results
+      group: Base
+    Mesh:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <GeoFeature object>
+          freecad_type: builtins.FeaturePython
+      group: General
+    NodeNumbers:
+      kind: List
+      paths: {}
+      items:
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 1
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 2
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 3
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 4
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 5
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 6
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 7
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 8
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 9
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 10
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 11
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 12
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 13
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 14
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 15
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 16
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 17
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 18
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 19
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 20
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 21
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 22
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 23
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 24
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 25
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 26
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 27
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 28
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 29
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 30
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 31
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 32
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 33
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 34
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 35
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 36
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 37
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 38
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 39
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 40
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 41
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 42
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 43
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 44
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 45
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 46
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 47
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 48
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 49
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 50
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 51
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 52
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 53
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 54
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 55
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 56
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 57
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 58
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 59
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 60
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 61
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 62
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 63
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 64
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 65
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 66
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 67
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 68
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 69
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 70
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 71
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 72
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 73
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 74
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 75
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 76
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 77
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 78
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 79
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 80
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 81
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 82
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 83
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 84
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 85
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 86
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 87
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 88
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 89
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 90
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 91
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 92
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 93
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 94
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 95
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 96
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 97
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 98
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 99
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 100
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 101
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 102
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 103
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 104
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 105
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 106
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 107
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 108
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 109
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 110
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 111
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 112
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 113
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 114
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 115
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 116
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 117
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 118
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 119
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 120
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 121
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 122
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 123
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 124
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 125
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 126
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 127
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 128
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 129
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 130
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 131
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 132
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 133
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 134
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 135
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 136
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 137
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 138
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 139
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 140
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 141
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 142
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 143
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 144
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 145
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 146
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 147
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 148
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 149
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 150
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 151
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 152
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 153
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 154
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 155
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 156
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 157
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 158
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 159
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 160
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 161
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 162
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 163
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 164
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 165
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 166
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 167
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 168
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 169
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 170
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 171
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 172
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 173
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 174
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 175
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 176
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 177
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 178
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 179
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 180
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 181
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 182
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 183
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 184
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 185
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 186
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 187
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 188
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 189
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 190
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 191
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 192
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 193
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 194
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 195
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 196
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 197
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 198
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 199
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 200
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 201
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 202
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 203
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 204
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 205
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 206
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 207
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 208
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 209
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 210
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 211
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 212
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 213
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 214
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 215
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 216
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 217
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 218
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 219
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 220
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 221
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 222
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 223
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 224
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 225
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 226
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 227
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 228
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 229
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 230
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 231
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 232
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 233
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 234
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 235
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 236
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 237
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 238
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 239
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 240
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 241
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 242
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 243
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 244
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 245
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 246
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 247
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 248
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 249
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 250
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 251
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 252
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 253
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 254
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 255
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 256
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 257
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 258
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 259
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 260
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 261
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 262
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 263
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 264
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 265
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 266
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 267
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 268
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 269
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 270
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 271
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 272
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 273
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 274
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 275
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 276
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 277
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 278
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 279
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 280
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 281
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 282
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 283
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 284
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 285
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 286
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 287
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 288
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 289
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 290
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 291
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 292
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 293
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 294
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 295
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 296
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 297
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 298
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 299
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 300
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 301
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 302
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 303
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 304
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 305
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 306
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 307
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 308
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 309
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 310
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 311
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 312
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 313
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 314
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 315
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 316
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 317
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 318
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 319
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 320
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 321
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 322
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 323
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 324
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 325
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 326
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 327
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 328
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 329
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 330
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 331
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 332
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 333
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 334
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 335
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 336
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 337
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 338
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 339
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 340
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 341
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 342
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 343
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 344
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 345
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 346
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 347
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 348
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 349
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 350
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 351
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 352
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 353
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 354
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 355
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 356
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 357
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 358
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 359
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 360
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 361
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 362
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 363
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 364
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 365
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 366
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 367
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 368
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 369
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 370
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 371
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 372
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 373
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 374
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 375
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 376
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 377
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 378
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 379
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 380
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 381
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 382
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 383
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 384
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 385
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 386
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 387
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 388
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 389
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 390
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 391
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 392
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 393
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 394
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 395
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 396
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 397
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 398
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 399
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 400
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 401
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 402
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 403
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 404
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 405
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 406
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 407
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 408
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 409
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 410
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 411
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 412
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 413
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 414
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 415
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 416
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 417
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 418
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 419
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 420
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 421
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 422
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 423
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 424
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 425
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 426
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 427
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 428
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 429
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 430
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 431
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 432
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 433
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 434
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 435
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 436
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 437
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 438
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 439
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 440
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 441
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 442
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 443
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 444
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 445
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 446
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 447
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 448
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 449
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 450
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 451
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 452
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 453
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 454
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 455
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 456
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 457
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 458
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 459
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 460
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 461
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 462
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 463
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 464
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 465
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 466
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 467
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 468
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 469
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 470
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 471
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 472
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 473
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 474
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 475
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 476
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 477
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 478
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 479
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 480
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 481
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 482
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 483
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 484
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 485
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 486
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 487
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 488
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 489
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 490
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 491
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 492
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 493
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 494
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 495
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 496
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 497
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 498
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 499
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 500
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 501
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 502
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 503
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 504
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 505
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 506
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 507
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 508
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 509
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 510
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 511
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 512
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 513
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 514
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 515
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 516
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 517
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 518
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 519
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 520
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 521
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 522
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 523
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 524
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 525
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 526
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 527
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 528
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 529
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 530
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 531
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 532
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 533
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 534
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 535
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 536
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 537
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 538
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 539
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 540
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 541
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 542
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 543
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 544
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 545
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 546
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 547
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 548
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 549
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 550
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 551
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 552
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 553
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 554
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 555
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 556
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 557
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 558
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 559
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 560
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 561
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 562
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 563
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 564
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 565
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 566
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 567
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 568
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 569
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 570
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 571
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 572
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 573
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 574
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 575
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 576
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 577
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 578
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 579
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 580
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 581
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 582
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 583
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 584
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 585
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 586
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 587
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 588
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 589
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 590
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 591
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 592
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 593
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 594
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 595
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 596
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 597
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 598
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 599
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 600
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 601
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 602
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 603
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 604
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 605
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 606
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 607
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 608
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 609
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 610
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 611
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 612
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 613
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 614
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 615
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 616
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 617
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 618
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 619
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 620
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 621
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 622
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 623
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 624
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 625
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 626
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 627
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 628
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 629
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 630
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 631
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 632
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 633
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 634
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 635
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 636
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 637
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 638
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 639
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 640
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 641
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 642
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 643
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 644
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 645
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 646
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 647
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 648
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 649
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 650
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 651
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 652
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 653
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 654
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 655
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 656
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 657
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 658
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 659
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 660
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 661
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 662
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 663
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 664
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 665
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 666
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 667
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 668
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 669
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 670
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 671
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 672
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 673
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 674
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 675
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 676
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 677
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 678
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 679
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 680
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 681
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 682
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 683
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 684
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 685
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 686
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 687
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 688
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 689
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 690
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 691
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 692
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 693
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 694
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 695
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 696
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 697
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 698
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 699
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 700
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 701
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 702
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 703
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 704
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 705
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 706
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 707
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 708
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 709
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 710
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 711
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 712
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 713
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 714
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 715
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 716
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 717
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 718
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 719
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 720
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 721
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 722
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 723
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 724
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 725
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 726
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 727
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 728
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 729
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 730
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 731
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 732
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 733
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 734
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 735
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 736
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 737
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 738
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 739
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 740
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 741
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 742
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 743
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 744
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 745
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 746
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 747
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 748
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 749
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 750
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 751
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 752
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 753
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 754
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 755
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 756
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 757
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 758
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 759
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 760
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 761
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 762
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 763
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 764
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 765
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 766
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 767
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 768
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 769
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 770
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 771
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 772
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 773
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 774
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 775
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 776
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 777
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 778
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 779
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 780
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 781
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 782
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 783
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 784
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 785
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 786
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 787
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 788
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 789
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 790
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 791
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 792
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 793
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 794
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 795
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 796
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 797
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 798
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 799
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 800
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 801
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 802
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 803
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 804
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 805
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 806
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 807
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 808
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 809
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 810
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 811
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 812
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 813
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 814
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 815
+      - kind: Primitive
+        paths:
+          .:
+            type: INT
+            value: 816
+      group: NodeData
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <femobjects.result_mechanical.ResultMechanical object at 0x00000298B3BFA2D0>
+          freecad_type: femobjects.result_mechanical.ResultMechanical
+      group: Base
+    ResultType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Fem::ResultMechanical
+      group: Base
+    Time:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 0.0
+      group: Data
+- name: CCX_Results_Mesh
+  id: 4435
+  type_id: Fem::FemMeshObjectPython
+  properties:
+    FemMesh:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: "========================== Dump contents of mesh ==========================\n\
+            \n1) Total number of nodes:      \t816\n2) Total number of edges:    \
+            \  \t0\n3) Total number of faces:      \t0\n4) Total number of polygons:\
+            \   \t0\n5) Total number of volumes:    \t345\n6) Total number of polyhedrons:\t\
+            0\n\n7) Total number of linear edges:\t0\n8) Total number of linear faces:\t\
+            0\n9) Total number of linear volumes:\t0\n\n10) Total number of quadratic\
+            \ edges:\t0\n11) Total number of quadratic faces:\t0\n12) Total number\
+            \ of quadratic volumes:\t345\n12.1) Number of quadratic hexahedrons: \t\
+            0\n12.2) Number of quadratic tetrahedrons:\t345\n12.3) Number of quadratic\
+            \ prisms:      \t0\n12.4) Number of quadratic pyramids:    \t0\n\n===========================================================================\n"
+          freecad_type: Fem.FemMesh
+      group: FEM Mesh
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: CCX_Results_Mesh
+      group: Base
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Base
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <femobjects.mesh_result.MeshResult object at 0x00000298B3BED810>
+          freecad_type: femobjects.mesh_result.MeshResult
+      group: Base
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: ConstraintFixed
+  id: 4440
+  type_id: Fem::ConstraintFixed
+  properties:
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ConstraintFixed
+      group: Base
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: Constraint
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: ConstraintForce
+  id: 4441
+  type_id: Fem::ConstraintForce
+  properties:
+    Direction:
+      kind: Primitive
+      paths:
+        .:
+          type: 'NULL'
+      group: ConstraintForce
+    EnableAmplitude:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ConstraintForce
+    Force:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 2455.0966089000003 mm*kg/s^2
+          expression: 0.2591 kg * 9.81 m / s ^ 2 * 0.9659
+      group: Base
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ConstraintForce
+      group: Base
+    Reversed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Base
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: Constraint
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: ConstraintForce001
+  id: 4442
+  type_id: Fem::ConstraintForce
+  properties:
+    Direction:
+      kind: Primitive
+      paths:
+        .:
+          type: 'NULL'
+      group: ConstraintForce
+    EnableAmplitude:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ConstraintForce
+    Force:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 657.8103348 mm*kg/s^2
+          expression: 0.2591 kg * 9.81 m / s ^ 2 * 0.2588
+      group: Base
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ConstraintForce001
+      group: Base
+    Reversed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: Constraint
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: FEMMeshGmsh
+  id: 4445
+  type_id: Fem::FemMeshShapeBaseObjectPython
+  properties:
+    Algorithm2D:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Automatic
+      group: Mesh Parameters
+    Algorithm3D:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Automatic
+      group: Mesh Parameters
+    CharacteristicLengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Mesh Parameters
+    CharacteristicLengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Mesh Parameters
+    CoherenceMesh:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Mesh Parameters
+    ElementDimension:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: From Shape
+      group: Mesh Parameters
+    ElementOrder:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: 2nd
+      group: Mesh Parameters
+    FemMesh:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: "========================== Dump contents of mesh ==========================\n\
+            \n1) Total number of nodes:      \t816\n2) Total number of edges:    \
+            \  \t146\n3) Total number of faces:      \t312\n4) Total number of polygons:\
+            \   \t0\n5) Total number of volumes:    \t345\n6) Total number of polyhedrons:\t\
+            0\n\n7) Total number of linear edges:\t0\n8) Total number of linear faces:\t\
+            0\n9) Total number of linear volumes:\t0\n\n10) Total number of quadratic\
+            \ edges:\t146\n11) Total number of quadratic faces:\t312\n11.1) Number\
+            \ of quadratic triangles:  \t312\n11.2) Number of quadratic quadrangles:\t\
+            0\n12) Total number of quadratic volumes:\t345\n12.1) Number of quadratic\
+            \ hexahedrons: \t0\n12.2) Number of quadratic tetrahedrons:\t345\n12.3)\
+            \ Number of quadratic prisms:      \t0\n12.4) Number of quadratic pyramids:\
+            \    \t0\n\n===========================================================================\n"
+          freecad_type: Fem.FemMesh
+      group: FEM Mesh
+    GeometryTolerance:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0e-06
+      group: Mesh Parameters
+    GroupsOfNodes:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Mesh Parameters
+    HighOrderOptimize:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: None
+      group: Mesh Parameters
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: FEMMeshGmsh
+      group: Base
+    MeshSizeFromCurvature:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 12
+      group: Mesh Parameters
+    OptimizeNetgen:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Mesh Parameters
+    OptimizeStd:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Mesh Parameters
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Base
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <femobjects.mesh_gmsh.MeshGmsh object at 0x00000298B3A9A090>
+          freecad_type: femobjects.mesh_gmsh.MeshGmsh
+      group: Base
+    RecombinationAlgorithm:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Simple
+      group: Mesh Parameters
+    Recombine3DAll:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Mesh Parameters
+    RecombineAll:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Mesh Parameters
+    SecondOrderLinear:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Mesh Parameters
+    Shape:
+      kind: Primitive
+      paths:
+        .:
+          type: 'NULL'
+      group: FEM Mesh
+    SubdivisionAlgorithm:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: None
+      group: Mesh Parameters
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: MaterialSolid
+  id: 4446
+  type_id: App::MaterialObjectPython
+  properties:
+    Category:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Solid
+      group: Material
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: MaterialSolid
+      group: Base
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <femobjects.material_common.MaterialCommon object at 0x00000298B3BFD590>
+          freecad_type: femobjects.material_common.MaterialCommon
+      group: Base
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: Pipeline_CCX_Results
+  id: 4490
+  type_id: Fem::FemPostPipeline
+  properties:
+    Data:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: "vtkUnstructuredGrid (00000298CB14AEB0)\n  Debug: Off\n  Modified\
+            \ Time: 280478\n  Reference Count: 1\n  Registered Events: (none)\n  Information:\
+            \ 00000298E2BE3150\n  Data Released: False\n  Global Release Data: Off\n\
+            \  UpdateTime: 0\n  Field Data:\n    Debug: Off\n    Modified Time: 280476\n\
+            \    Reference Count: 1\n    Registered Events: (none)\n    Number Of\
+            \ Arrays: 0\n    Number Of Components: 0\n    Number Of Tuples: 0\n  Number\
+            \ Of Points: 816\n  Number Of Cells: 345\n  Cell Data:\n    Debug: Off\n\
+            \    Modified Time: 280164\n    Reference Count: 1\n    Registered Events:\
+            \ \n      Registered Observers:\n        vtkObserver (00000298E34C3CC0)\n\
+            \          Event: 33\n          EventName: ModifiedEvent\n          Command:\
+            \ 00000298E2B9D600\n          Priority: 0\n          Tag: 1\n    Number\
+            \ Of Arrays: 0\n    Number Of Components: 0\n    Number Of Tuples: 0\n\
+            \    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 1 1 1 1 )\n    Interpolate Flags:\
+            \ ( 1 1 1 1 1 0 0 1 1 1 1 0 )\n    Pass Through Flags: ( 1 1 1 1 1 1 1\
+            \ 1 1 1 1 1 )\n    Scalars: (none)\n    Vectors: (none)\n    Normals:\
+            \ (none)\n    TCoords: (none)\n    Tensors: (none)\n    GlobalIds: (none)\n\
+            \    PedigreeIds: (none)\n    EdgeFlag: (none)\n    Tangents: (none)\n\
+            \    RationalWeights: (none)\n    HigherOrderDegrees: (none)\n    ProcessIds:\
+            \ (none)\n  Point Data:\n    Debug: Off\n    Modified Time: 280474\n \
+            \   Reference Count: 1\n    Registered Events: \n      Registered Observers:\n\
+            \        vtkObserver (00000298E34C3900)\n          Event: 33\n       \
+            \   EventName: ModifiedEvent\n          Command: 00000298E2B9D600\n  \
+            \        Priority: 0\n          Tag: 1\n    Number Of Arrays: 19\n   \
+            \ Array 0 name = Displacement\n    Array 1 name = Displacement Magnitude\n\
+            \    Array 2 name = Tresca Stress\n    Array 3 name = Strain xx component\n\
+            \    Array 4 name = Strain xy component\n    Array 5 name = Strain xz\
+            \ component\n    Array 6 name = Strain yy component\n    Array 7 name\
+            \ = Strain yz component\n    Array 8 name = Strain zz component\n    Array\
+            \ 9 name = Stress xx component\n    Array 10 name = Stress xy component\n\
+            \    Array 11 name = Stress xz component\n    Array 12 name = Stress yy\
+            \ component\n    Array 13 name = Stress yz component\n    Array 14 name\
+            \ = Stress zz component\n    Array 15 name = Major Principal Stress\n\
+            \    Array 16 name = Intermediate Principal Stress\n    Array 17 name\
+            \ = Minor Principal Stress\n    Array 18 name = von Mises Stress\n   \
+            \ Number Of Components: 21\n    Number Of Tuples: 816\n    Copy Tuple\
+            \ Flags: ( 1 1 1 1 1 0 1 1 1 1 1 1 )\n    Interpolate Flags: ( 1 1 1 1\
+            \ 1 0 0 1 1 1 1 0 )\n    Pass Through Flags: ( 1 1 1 1 1 1 1 1 1 1 1 1\
+            \ )\n    Scalars: (none)\n    Vectors: (none)\n    Normals: (none)\n \
+            \   TCoords: (none)\n    Tensors: (none)\n    GlobalIds: (none)\n    PedigreeIds:\
+            \ (none)\n    EdgeFlag: (none)\n    Tangents: (none)\n    RationalWeights:\
+            \ (none)\n    HigherOrderDegrees: (none)\n    ProcessIds: (none)\n  Bounds:\
+            \ \n    Xmin,Xmax: (-48.1173, 65.504)\n    Ymin,Ymax: (-10, 26)\n    Zmin,Zmax:\
+            \ (9.15976, 46.0659)\n  Compute Time: 280507\n  Editable: false\n  Number\
+            \ Of Points: 816\n  Point Coordinates: 00000298E3272F10\n  PointLocator:\
+            \ 0000000000000000\n  CellLocator: 0000000000000000\n  Number Of Pieces:\
+            \ 1\n  Piece: -1\n  Ghost Level: 0\n\n"
+          freecad_type: vtkmodules.vtkCommonDataModel.vtkUnstructuredGrid
+      group: Base
+    Frame:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: No frames available
+      group: Pipeline
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Pipeline_CCX_Results
+      group: Base
+    MergeDuplicate:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Pipeline
+    Mode:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Serial
+      group: Pipeline
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Base
+- name: SolverCcxTools
+  id: 4513
+  type_id: Fem::FemSolverObjectPython
+  properties:
+    AnalysisType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: static
+      group: AnalysisType
+    AutomaticIncrementation:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: TimeIncrement
+    BeamReducedIntegration:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: ElementModel
+    BeamShellResultOutput3D:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Solver
+    BucklingAccuracy:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 0.01
+      group: Solver
+    BucklingFactors:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 1
+      group: Solver
+    EigenmodeHighLimit:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 1000000.0 1/s
+      group: Solver
+    EigenmodeLowLimit:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 1/s
+      group: Solver
+    EigenmodesCount:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 10
+      group: Solver
+    ExcludeBendingStiffness:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ElementModel
+    GeometricalNonlinearity:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: linear
+      group: Solver
+    IncrementsMaximum:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 2000
+      group: TimeIncrement
+    IterationsControlParameterCutb:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: 0.25,0.5,0.75,0.85,,,1.5,
+      group: Solver
+    IterationsControlParameterIter:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: 4,8,9,200,10,400,,200,,
+      group: Solver
+    IterationsControlParameterTimeUse:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Solver
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: SolverCcxTools
+      group: Base
+    MaterialNonlinearity:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: linear
+      group: Solver
+    MatrixSolverType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: default
+      group: Solver
+    ModelSpace:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: 3D
+      group: ElementModel
+    OutputFrequency:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 1
+      group: Solver
+    PastixMixedPrecision:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Solver
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <femobjects.solver_ccxtools.SolverCcxTools object at 0x00000298B3B0A650>
+          freecad_type: femobjects.solver_ccxtools.SolverCcxTools
+      group: Base
+    SplitInputWriter:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Solver
+    ThermoMechSteadyState:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: AnalysisType
+    ThermoMechType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: coupled
+      group: AnalysisType
+    TimeInitialIncrement:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 1.0 s
+      group: TimeIncrement
+    TimeMaximumIncrement:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 1.0 s
+      group: TimeIncrement
+    TimeMinimumIncrement:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 1e-05 s
+      group: TimeIncrement
+    TimePeriod:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 1.0 s
+      group: TimeIncrement
+    WorkingDir:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ''
+      group: Solver
+- name: Text_document
+  id: 4514
+  type_id: App::TextDocument
+  properties:
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Inference
+      group: Base
+- name: ccx_dat_file
+  id: 4595
+  type_id: App::TextDocument
+  properties:
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ccx_dat_file
+      group: Base
+- name: Group007
+  id: 4596
+  type_id: App::DocumentObjectGroup
+  properties:
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: FEM Analysis
       group: Base
 occurrences:
 - path: Assembly
@@ -53421,6 +58371,32 @@ occurrences:
   after: Group004/Body029/Pad032
 - path: Group004/Body029/Pocket003/Sketch036
   after: null
+- path: Group007
+  after: Assembly
+- path: Group007/Analysis
+  after: null
+- path: Group007/Analysis/CCX_Results
+  after: Group007/Analysis/ConstraintForce001
+- path: Group007/Analysis/CCX_Results/CCX_Results_Mesh
+  after: null
+- path: Group007/Analysis/ConstraintFixed
+  after: Group007/Analysis/FEMMeshGmsh
+- path: Group007/Analysis/ConstraintForce
+  after: Group007/Analysis/ConstraintFixed
+- path: Group007/Analysis/ConstraintForce001
+  after: Group007/Analysis/ConstraintForce
+- path: Group007/Analysis/FEMMeshGmsh
+  after: Group007/Analysis/MaterialSolid
+- path: Group007/Analysis/MaterialSolid
+  after: Group007/Analysis/SolverCcxTools
+- path: Group007/Analysis/Pipeline_CCX_Results
+  after: Group007/Analysis/CCX_Results
+- path: Group007/Analysis/SolverCcxTools
+  after: null
+- path: Group007/Analysis/Text_document
+  after: Group007/Analysis/ccx_dat_file
+- path: Group007/Analysis/ccx_dat_file
+  after: Group007/Analysis/Pipeline_CCX_Results
 - path: LCS
   after: Sketch002
 - path: LCS/Origin012
