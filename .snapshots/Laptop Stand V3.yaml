@@ -1,6 +1,6 @@
 v: 2
-timestamp: '2026-07-29T16:07:44.410015'
-uid: 9e248e70-910a-4432-9c7d-77e7642f9e1d
+timestamp: '2026-08-08T17:52:53.349306'
+uid: 106d7665-fcd6-485e-8f31-e82639522ec0
 objects:
 - name: VarSet
   id: 3729
@@ -36883,7 +36883,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.GroundedJoint object at 0x000001EE28C61DD0>
+          value: <JointObject.GroundedJoint object at 0x000001DFACA6E690>
           freecad_type: JointObject.GroundedJoint
       group: Base
 - name: lowerCurveL
@@ -36937,13 +36937,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.641844785465713e-14 mm
+          value: 1.16e-14 mm
         Base.y:
           type: QUANTITY
-          value: -1.0732970763975664e-14 mm
+          value: -1.07e-14 mm
         Base.z:
           type: QUANTITY
-          value: -1.280839286586186e-13 mm
+          value: -1.278e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37022,13 +37022,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 2.1833074211113512e-14 mm
+          value: 3.38e-14 mm
         Base.y:
           type: QUANTITY
-          value: -3.1488394640367236e-14 mm
+          value: -3.15e-14 mm
         Base.z:
           type: QUANTITY
-          value: -4.1393619341419095e-13 mm
+          value: -4.145e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37107,13 +37107,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 7.960793099638798e-14 mm
+          value: 9.31e-14 mm
         Base.y:
           type: QUANTITY
-          value: -2.3774528906011304e-14 mm
+          value: -2.4e-14 mm
         Base.z:
           type: QUANTITY
-          value: -3.7967635691282756e-13 mm
+          value: -3.799e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37192,13 +37192,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.3157202769206347e-13 mm
+          value: 1.377e-13 mm
         Base.y:
           type: QUANTITY
-          value: -4.36712112751762e-14 mm
+          value: -4.39e-14 mm
         Base.z:
           type: QUANTITY
-          value: -3.284644948338898e-13 mm
+          value: -3.265e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37277,13 +37277,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.6857202769206343e-13 mm
+          value: 1.747e-13 mm
         Base.y:
           type: QUANTITY
-          value: -4.3871211275176194e-14 mm
+          value: -4.41e-14 mm
         Base.z:
           type: QUANTITY
-          value: -3.3046449483388954e-13 mm
+          value: -3.214e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37362,13 +37362,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.025881904510213303 mm
+          value: -0.0258819045101969 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000004866 mm
+          value: -0.1000000000000487 mm
         Base.z:
           type: QUANTITY
-          value: -0.09659258262937725 mm
+          value: -0.0965925826293769 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37447,13 +37447,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.025881904510324124 mm
+          value: -0.0258819045103092 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000003727 mm
+          value: -0.1000000000000372 mm
         Base.z:
           type: QUANTITY
-          value: -0.09659258262916953 mm
+          value: -0.0965925826291707 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37532,13 +37532,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.02588190451009625 mm
+          value: -0.0258819045100824 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000010996 mm
+          value: -0.1000000000001095 mm
         Base.z:
           type: QUANTITY
-          value: -0.09659258262910567 mm
+          value: -0.0965925826291042 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -37780,7 +37780,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A13D0>
+          value: <JointObject.Joint object at 0x000001DFAF589290>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -38052,7 +38052,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A1750>
+          value: <JointObject.Joint object at 0x000001DFAF589590>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -38324,7 +38324,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A19D0>
+          value: <JointObject.Joint object at 0x000001DFAF1B9650>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -38596,7 +38596,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A1D50>
+          value: <JointObject.Joint object at 0x000001DFAF52E0D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -38868,7 +38868,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A1410>
+          value: <JointObject.Joint object at 0x000001DF248D69D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -39140,7 +39140,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A02E950>
+          value: <JointObject.Joint object at 0x000001DFADFEE150>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -39412,7 +39412,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A24D0>
+          value: <JointObject.Joint object at 0x000001DFAF58A250>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -39684,7 +39684,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A2850>
+          value: <JointObject.Joint object at 0x000001DFAF58A4D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -39804,13 +39804,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.025881904509740587 mm
+          value: -0.0258819045097301 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000096007 mm
+          value: -0.1000000000009594 mm
         Base.z:
           type: QUANTITY
-          value: -0.09659258262587406 mm
+          value: -0.0965925826258746 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -39889,13 +39889,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.025881904510141444 mm
+          value: -0.0258819045101261 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000004734 mm
+          value: -0.1000000000000371 mm
         Base.z:
           type: QUANTITY
-          value: -0.0965925826291643 mm
+          value: -0.0965925826291654 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -39974,13 +39974,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.025881904510282813 mm
+          value: -0.0258819045102739 mm
         Base.y:
           type: QUANTITY
-          value: -0.10000000000000861 mm
+          value: -0.1000000000000218 mm
         Base.z:
           type: QUANTITY
-          value: -0.09659258262946048 mm
+          value: -0.0965925826294609 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40059,13 +40059,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -5.772242356444998e-14 mm
+          value: -4.49e-14 mm
         Base.y:
           type: QUANTITY
-          value: -0.200000000000067 mm
+          value: -0.2000000000000219 mm
         Base.z:
           type: QUANTITY
-          value: -6.043212228235054e-13 mm
+          value: -6.023e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40144,13 +40144,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -5.752242356444992e-14 mm
+          value: -4.47e-14 mm
         Base.y:
           type: QUANTITY
-          value: -0.20000000000002877 mm
+          value: -0.2000000000000405 mm
         Base.z:
           type: QUANTITY
-          value: -6.069266501811065e-13 mm
+          value: -6.049e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40229,13 +40229,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -4.14224235644502e-14 mm
+          value: -2.86e-14 mm
         Base.y:
           type: QUANTITY
-          value: -0.2000000000000687 mm
+          value: -0.2000000000000236 mm
         Base.z:
           type: QUANTITY
-          value: -5.635266501811065e-13 mm
+          value: -5.615e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40314,13 +40314,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -5.1669711076949756e-14 mm
+          value: -3.88e-14 mm
         Base.y:
           type: QUANTITY
-          value: -0.20000000000002036 mm
+          value: -0.2000000000000321 mm
         Base.z:
           type: QUANTITY
-          value: -5.57226650181145e-13 mm
+          value: -5.552e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40399,13 +40399,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 4.9152216099501206e-14 mm
+          value: 5.79e-14 mm
         Base.y:
           type: QUANTITY
-          value: -0.20000000000009716 mm
+          value: -0.200000000000093 mm
         Base.z:
           type: QUANTITY
-          value: -3.506285744205258e-13 mm
+          value: -3.496e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -40484,13 +40484,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -3.308111331320682e-13 mm
+          value: -3.157e-13 mm
         Base.y:
           type: QUANTITY
           value: 579.8 mm
         Base.z:
           type: QUANTITY
-          value: 5.000000000000044 mm
+          value: 5.000000000000045 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.00000000000006 deg
@@ -40499,7 +40499,7 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 3.018175463754503e-16
+          value: 3.0e-16
         Rotation.Axis.z:
           type: FLOAT
           value: 0.0
@@ -40732,7 +40732,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A2AD0>
+          value: <JointObject.Joint object at 0x000001DFAF52CB50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41004,7 +41004,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2BB0DAD0>
+          value: <JointObject.Joint object at 0x000001DFAF58A850>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41276,7 +41276,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A07EA10>
+          value: <JointObject.Joint object at 0x000001DFAF52D8D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41548,7 +41548,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A3490>
+          value: <JointObject.Joint object at 0x000001DFAF1BEC10>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41820,7 +41820,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A3710>
+          value: <JointObject.Joint object at 0x000001DFAF58B010>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -42092,7 +42092,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A3990>
+          value: <JointObject.Joint object at 0x000001DFAF1BC890>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -42212,7 +42212,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -82.83260826639643 mm
+          value: -82.83260826639642 mm
         Base.y:
           type: QUANTITY
           value: 74.94999999999987 mm
@@ -43896,7 +43896,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A3C50>
+          value: <JointObject.Joint object at 0x000001DFAF58B310>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44168,7 +44168,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE2A0A3F90>
+          value: <JointObject.Joint object at 0x000001DFAF58B110>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44440,7 +44440,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE31074190>
+          value: <JointObject.Joint object at 0x000001DFAF4E5A90>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44712,7 +44712,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE31074350>
+          value: <JointObject.Joint object at 0x000001DFAF58B610>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -50548,7 +50548,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.50991092572965 mm
+          value: -45.509910925729635 mm
         Base.y:
           type: QUANTITY
           value: 144.89999999999986 mm
@@ -50560,7 +50560,7 @@ objects:
           value: 180.00000000000003 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.13052619222005288
+          value: 0.1305261922200529
         Rotation.Axis.y:
           type: FLOAT
           value: 0.0
@@ -50633,13 +50633,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.03440044793790474 mm
+          value: -0.0344004479378944 mm
         Base.y:
           type: QUANTITY
           value: 284.79999999999984 mm
         Base.z:
           type: QUANTITY
-          value: -0.16129734390470243 mm
+          value: -0.1612973439046978 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -50881,7 +50881,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE31074650>
+          value: <JointObject.Joint object at 0x000001DFAF387150>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -50990,7 +50990,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -115.01774756177795 mm
+          value: -115.01774756177794 mm
         Base.y:
           type: QUANTITY
           value: 144.8999999999998 mm
@@ -51002,10 +51002,10 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.13052619222006798
+          value: 0.130526192220068
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.583466313477598e-15
+          value: 1.6e-15
         Rotation.Axis.z:
           type: FLOAT
           value: 0.9914448613738083
@@ -51075,7 +51075,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 58.848901170255196 mm
+          value: 58.84890117025521 mm
         Base.y:
           type: QUANTITY
           value: 144.89999999999998 mm
@@ -51087,7 +51087,7 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.13052619222004783
+          value: 0.13052619222004802
         Rotation.Axis.y:
           type: FLOAT
           value: 0.0
@@ -51160,13 +51160,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -6.834055017401494 mm
+          value: -6.834055017401478 mm
         Base.y:
           type: QUANTITY
-          value: 144.8999999999999 mm
+          value: 144.89999999999992 mm
         Base.z:
           type: QUANTITY
-          value: 26.986385145830575 mm
+          value: 26.98638514583057 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
@@ -51409,7 +51409,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE31074790>
+          value: <JointObject.Joint object at 0x000001DFAF52F390>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -51634,7 +51634,7 @@ objects:
           value: -2.5 mm
         Base.y:
           type: QUANTITY
-          value: -2.84e-14 mm
+          value: -0.0 mm
         Base.z:
           type: QUANTITY
           value: 2.144506920509194 mm
@@ -51643,7 +51643,7 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.0
+          value: 0.0
         Rotation.Axis.y:
           type: FLOAT
           value: -1.0
@@ -51662,13 +51662,13 @@ objects:
           value: 145.0 mm
         Base.z:
           type: QUANTITY
-          value: 28.50736473487886 mm
+          value: 28.507364734878855 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.9914448613738104
+          value: 0.9914448613738105
         Rotation.Axis.y:
           type: FLOAT
           value: -0.0
@@ -51681,7 +51681,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE31074A90>
+          value: <JointObject.Joint object at 0x000001DFAF58BB10>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -51909,10 +51909,10 @@ objects:
           value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 2.1445069205091944 mm
+          value: 2.144506920509194 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 180.00000000000003 deg
+          value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.0
@@ -51940,7 +51940,7 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.9914448613738106
+          value: 0.9914448613738105
         Rotation.Axis.y:
           type: FLOAT
           value: -0.0
@@ -51953,7 +51953,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE31074C50>
+          value: <JointObject.Joint object at 0x000001DFAF58BF10>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -52226,7 +52226,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000001EE31074ED0>
+          value: <JointObject.Joint object at 0x000001DFAF58B090>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -56425,7 +56425,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <femobjects.result_mechanical.ResultMechanical object at 0x000001EE2A04C490>
+          value: <femobjects.result_mechanical.ResultMechanical object at 0x000001DFACC6EBD0>
           freecad_type: femobjects.result_mechanical.ResultMechanical
       group: Base
     ResultType:
@@ -56500,7 +56500,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <femobjects.mesh_result.MeshResult object at 0x000001EDF9B72A10>
+          value: <femobjects.mesh_result.MeshResult object at 0x000001DF23F88290>
           freecad_type: femobjects.mesh_result.MeshResult
       group: Base
     Suppressed:
@@ -56792,7 +56792,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <femobjects.mesh_gmsh.MeshGmsh object at 0x000001EE2A0A1510>
+          value: <femobjects.mesh_gmsh.MeshGmsh object at 0x000001DFAF1BB990>
           freecad_type: femobjects.mesh_gmsh.MeshGmsh
       group: Base
     RecombinationAlgorithm:
@@ -56866,7 +56866,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <femobjects.material_common.MaterialCommon object at 0x000001EE31075810>
+          value: <femobjects.material_common.MaterialCommon object at 0x000001DFAF53EB90>
           freecad_type: femobjects.material_common.MaterialCommon
       group: Base
     Suppressed:
@@ -56885,17 +56885,17 @@ objects:
       paths:
         .:
           type: STRING
-          value: "vtkUnstructuredGrid (000001EE493E71B0)\n  Debug: Off\n  Modified\
-            \ Time: 8158\n  Reference Count: 1\n  Registered Events: (none)\n  Information:\
-            \ 000001EE44A6C3D0\n  Data Released: False\n  Global Release Data: Off\n\
-            \  UpdateTime: 0\n  Field Data:\n    Debug: Off\n    Modified Time: 8156\n\
+          value: "vtkUnstructuredGrid (000001DFC9CB9270)\n  Debug: Off\n  Modified\
+            \ Time: 137114\n  Reference Count: 1\n  Registered Events: (none)\n  Information:\
+            \ 000001DFAE53A1E0\n  Data Released: False\n  Global Release Data: Off\n\
+            \  UpdateTime: 0\n  Field Data:\n    Debug: Off\n    Modified Time: 137112\n\
             \    Reference Count: 1\n    Registered Events: (none)\n    Number Of\
             \ Arrays: 0\n    Number Of Components: 0\n    Number Of Tuples: 0\n  Number\
             \ Of Points: 816\n  Number Of Cells: 345\n  Cell Data:\n    Debug: Off\n\
-            \    Modified Time: 7844\n    Reference Count: 1\n    Registered Events:\
-            \ \n      Registered Observers:\n        vtkObserver (000001EE2A599350)\n\
+            \    Modified Time: 136800\n    Reference Count: 1\n    Registered Events:\
+            \ \n      Registered Observers:\n        vtkObserver (000001DF0AD4E670)\n\
             \          Event: 33\n          EventName: ModifiedEvent\n          Command:\
-            \ 000001EE29269ED0\n          Priority: 0\n          Tag: 1\n    Number\
+            \ 000001DFAE517A70\n          Priority: 0\n          Tag: 1\n    Number\
             \ Of Arrays: 0\n    Number Of Components: 0\n    Number Of Tuples: 0\n\
             \    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 1 1 1 1 )\n    Interpolate Flags:\
             \ ( 1 1 1 1 1 0 0 1 1 1 1 0 )\n    Pass Through Flags: ( 1 1 1 1 1 1 1\
@@ -56903,10 +56903,10 @@ objects:
             \ (none)\n    TCoords: (none)\n    Tensors: (none)\n    GlobalIds: (none)\n\
             \    PedigreeIds: (none)\n    EdgeFlag: (none)\n    Tangents: (none)\n\
             \    RationalWeights: (none)\n    HigherOrderDegrees: (none)\n    ProcessIds:\
-            \ (none)\n  Point Data:\n    Debug: Off\n    Modified Time: 8154\n   \
-            \ Reference Count: 1\n    Registered Events: \n      Registered Observers:\n\
-            \        vtkObserver (000001EE2A598FC0)\n          Event: 33\n       \
-            \   EventName: ModifiedEvent\n          Command: 000001EE29269ED0\n  \
+            \ (none)\n  Point Data:\n    Debug: Off\n    Modified Time: 137110\n \
+            \   Reference Count: 1\n    Registered Events: \n      Registered Observers:\n\
+            \        vtkObserver (000001DF0AD4E3D0)\n          Event: 33\n       \
+            \   EventName: ModifiedEvent\n          Command: 000001DFAE517A70\n  \
             \        Priority: 0\n          Tag: 1\n    Number Of Arrays: 19\n   \
             \ Array 0 name = Displacement\n    Array 1 name = Displacement Magnitude\n\
             \    Array 2 name = Tresca Stress\n    Array 3 name = Strain xx component\n\
@@ -56927,8 +56927,8 @@ objects:
             \ (none)\n    EdgeFlag: (none)\n    Tangents: (none)\n    RationalWeights:\
             \ (none)\n    HigherOrderDegrees: (none)\n    ProcessIds: (none)\n  Bounds:\
             \ \n    Xmin,Xmax: (-48.1173, 65.504)\n    Ymin,Ymax: (-10, 26)\n    Zmin,Zmax:\
-            \ (9.15976, 46.0659)\n  Compute Time: 8187\n  Editable: false\n  Number\
-            \ Of Points: 816\n  Point Coordinates: 000001EE465C6190\n  PointLocator:\
+            \ (9.15976, 46.0659)\n  Compute Time: 137143\n  Editable: false\n  Number\
+            \ Of Points: 816\n  Point Coordinates: 000001DFC8553950\n  PointLocator:\
             \ 0000000000000000\n  CellLocator: 0000000000000000\n  Number Of Pieces:\
             \ 1\n  Piece: -1\n  Ghost Level: 0\n\n"
           freecad_type: vtkmodules.vtkCommonDataModel.vtkUnstructuredGrid
@@ -57142,7 +57142,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <femobjects.solver_ccxtools.SolverCcxTools object at 0x000001EE29FA8E10>
+          value: <femobjects.solver_ccxtools.SolverCcxTools object at 0x000001DFAF58B710>
           freecad_type: femobjects.solver_ccxtools.SolverCcxTools
       group: Base
     SplitInputWriter:
@@ -57234,8 +57234,59 @@ objects:
           type: STRING
           value: FEM Analysis
       group: Base
-- name: Body030
-  id: 4603
+- name: Analysis001
+  id: 4622
+  type_id: Fem::FemAnalysis
+  properties:
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Solid Stand
+      group: Base
+    Uid:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: 4e3765b1-daf4-4f13-b4f7-c07062dc0c73
+      group: Base
+- name: MaterialSolid001
+  id: 4624
+  type_id: App::MaterialObjectPython
+  properties:
+    Category:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Solid
+      group: Material
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: MaterialSolid001
+      group: Base
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <femobjects.material_common.MaterialCommon object at 0x000001DFAF58A610>
+          freecad_type: femobjects.material_common.MaterialCommon
+      group: Base
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: lowerSupportL001
+  id: 4633
   type_id: Part::Feature
   properties:
     Label:
@@ -57270,8 +57321,44 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body031
-  id: 4604
+- name: Group008
+  id: 4634
+  type_id: Part::Feature
+  properties:
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: RightSide001
+      group: Base
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Base
+- name: lowerCurveL001
+  id: 4635
   type_id: Part::Feature
   properties:
     Label:
@@ -57306,8 +57393,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body032
-  id: 4605
+- name: lowerBridgeL001
+  id: 4636
   type_id: Part::Feature
   properties:
     Label:
@@ -57342,8 +57429,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body033
-  id: 4606
+- name: upperBridgeL001
+  id: 4637
   type_id: Part::Feature
   properties:
     Label:
@@ -57378,8 +57465,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body034
-  id: 4607
+- name: upperCurveL001
+  id: 4638
   type_id: Part::Feature
   properties:
     Label:
@@ -57414,8 +57501,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body035
-  id: 4608
+- name: upperSupportL001
+  id: 4639
   type_id: Part::Feature
   properties:
     Label:
@@ -57450,8 +57537,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body036
-  id: 4609
+- name: lowerCrossBeamL001
+  id: 4640
   type_id: Part::Feature
   properties:
     Label:
@@ -57466,13 +57553,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.0258819045101991 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.1000000000000484 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.0965925826293773 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57486,44 +57573,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body037
-  id: 4610
-  type_id: Part::Feature
-  properties:
-    Label:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: middleCrossBeamL002
-      group: Base
-    Placement:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: 0.0 mm
-        Base.y:
-          type: QUANTITY
-          value: 0.0 mm
-        Base.z:
-          type: QUANTITY
-          value: 0.0 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 0.0 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: 0.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: 0.0
-        Rotation.Axis.z:
-          type: FLOAT
-          value: 1.0
-      group: Base
-- name: Body038
-  id: 4611
+- name: upperCrossBeamL001
+  id: 4641
   type_id: Part::Feature
   properties:
     Label:
@@ -57538,13 +57589,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.0258819045103332 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.1000000000000369 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.096592582629169 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57558,8 +57609,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body039
-  id: 4612
+- name: middleCrossBeamL001
+  id: 4642
   type_id: Part::Feature
   properties:
     Label:
@@ -57567,20 +57618,20 @@ objects:
       paths:
         .:
           type: STRING
-          value: upperCrossBeamR001
+          value: middleCrossBeamL002
       group: Base
     Placement:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.0258819045100833 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.1000000000001101 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.0965925826291054 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57594,8 +57645,44 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body040
-  id: 4613
+- name: upperCrossBeam001
+  id: 4643
+  type_id: Part::Feature
+  properties:
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: upperCrossBeam002
+      group: Base
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: -0.0258819045097519 mm
+        Base.y:
+          type: QUANTITY
+          value: -0.1000000000009459 mm
+        Base.z:
+          type: QUANTITY
+          value: -0.096592582625875 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Base
+- name: middleCrossBeamR001
+  id: 4644
   type_id: Part::Feature
   properties:
     Label:
@@ -57610,13 +57697,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.0258819045101268 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.1000000000000431 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.0965925826291639 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57630,8 +57717,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body041
-  id: 4614
+- name: lowerCrossBeamR001
+  id: 4645
   type_id: Part::Feature
   properties:
     Label:
@@ -57646,13 +57733,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.0258819045102715 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.1000000000000309 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.0965925826294611 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57666,8 +57753,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body042
-  id: 4615
+- name: upperSupportR001
+  id: 4646
   type_id: Part::Feature
   properties:
     Label:
@@ -57682,13 +57769,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -4.44e-14 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.2000000000000315 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -6.18e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57702,8 +57789,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body043
-  id: 4616
+- name: upperCurveR001
+  id: 4647
   type_id: Part::Feature
   properties:
     Label:
@@ -57718,13 +57805,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -4.42e-14 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.2000000000000501 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -6.135e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57738,8 +57825,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body044
-  id: 4617
+- name: upperBridgeR001
+  id: 4648
   type_id: Part::Feature
   properties:
     Label:
@@ -57754,13 +57841,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -2.81e-14 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.2000000000000332 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -5.701e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57774,8 +57861,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body045
-  id: 4618
+- name: lowerBridgeR001
+  id: 4649
   type_id: Part::Feature
   properties:
     Label:
@@ -57790,13 +57877,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -3.83e-14 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.2000000000000417 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -5.567e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57810,8 +57897,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body046
-  id: 4619
+- name: lowerCurveR001
+  id: 4650
   type_id: Part::Feature
   properties:
     Label:
@@ -57826,13 +57913,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: 5.15e-14 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -0.2000000000000771 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -3.491e-13 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -57846,8 +57933,8 @@ objects:
           type: FLOAT
           value: 1.0
       group: Base
-- name: Body047
-  id: 4620
+- name: lowerSupportR001
+  id: 4651
   type_id: Part::Feature
   properties:
     Label:
@@ -57862,28 +57949,28 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -3.113e-13 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: 579.7999999999998 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: 5.000000000000046 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 0.0 deg
+          value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.0
+          value: 1.0
         Rotation.Axis.y:
           type: FLOAT
           value: 0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.0
+          value: 0.0
       group: Base
 - name: Fusion
-  id: 4621
+  id: 4652
   type_id: Part::MultiFuse
   properties:
     Label:
@@ -57891,7 +57978,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: solidStand
+          value: Full Stand
       group: Base
     Placement:
       kind: Placement
@@ -57925,26 +58012,341 @@ objects:
           type: BOOL
           value: true
       group: Boolean
-- name: Analysis001
-  id: 4622
-  type_id: Fem::FemAnalysis
+- name: FEMMeshGmsh001
+  id: 4653
+  type_id: Fem::FemMeshShapeBaseObjectPython
+  properties:
+    Algorithm2D:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Automatic
+      group: Mesh Parameters
+    Algorithm3D:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Automatic
+      group: Mesh Parameters
+    CharacteristicLengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Mesh Parameters
+    CharacteristicLengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Mesh Parameters
+    CoherenceMesh:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Mesh Parameters
+    ElementDimension:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: From Shape
+      group: Mesh Parameters
+    ElementOrder:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: 1st
+      group: Mesh Parameters
+    FemMesh:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: "========================== Dump contents of mesh ==========================\n\
+            \n1) Total number of nodes:      \t4843\n2) Total number of edges:   \
+            \   \t914\n3) Total number of faces:      \t1694\n4) Total number of polygons:\
+            \   \t0\n5) Total number of volumes:    \t2267\n6) Total number of polyhedrons:\t\
+            0\n\n7) Total number of linear edges:\t0\n8) Total number of linear faces:\t\
+            0\n9) Total number of linear volumes:\t0\n\n10) Total number of quadratic\
+            \ edges:\t914\n11) Total number of quadratic faces:\t1694\n11.1) Number\
+            \ of quadratic triangles:  \t1694\n11.2) Number of quadratic quadrangles:\t\
+            0\n12) Total number of quadratic volumes:\t2267\n12.1) Number of quadratic\
+            \ hexahedrons: \t0\n12.2) Number of quadratic tetrahedrons:\t2267\n12.3)\
+            \ Number of quadratic prisms:      \t0\n12.4) Number of quadratic pyramids:\
+            \    \t0\n\n===========================================================================\n"
+          freecad_type: Fem.FemMesh
+      group: FEM Mesh
+    GeometryTolerance:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0e-06
+      group: Mesh Parameters
+    GroupsOfNodes:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Mesh Parameters
+    HighOrderOptimize:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: None
+      group: Mesh Parameters
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: FEMMeshGmsh002
+      group: Base
+    MeshSizeFromCurvature:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 5
+      group: Mesh Parameters
+    OptimizeNetgen:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Mesh Parameters
+    OptimizeStd:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Mesh Parameters
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Base
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <femobjects.mesh_gmsh.MeshGmsh object at 0x000001DF23F89750>
+          freecad_type: femobjects.mesh_gmsh.MeshGmsh
+      group: Base
+    RecombinationAlgorithm:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Simple
+      group: Mesh Parameters
+    Recombine3DAll:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Mesh Parameters
+    RecombineAll:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Mesh Parameters
+    SecondOrderLinear:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Mesh Parameters
+    Shape:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <Part::Feature>
+          freecad_type: Part.Feature
+      group: FEM Mesh
+    SubdivisionAlgorithm:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: None
+      group: Mesh Parameters
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: ConstraintFixed002
+  id: 4654
+  type_id: Fem::ConstraintFixed
   properties:
     Label:
       kind: Primitive
       paths:
         .:
           type: STRING
-          value: Solid Stand
+          value: ConstraintFixed002
       group: Base
-    Uid:
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: Constraint
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: ConstraintForce004
+  id: 4655
+  type_id: Fem::ConstraintForce
+  properties:
+    Direction:
+      kind: Primitive
+      paths:
+        .:
+          type: 'NULL'
+      group: ConstraintForce
+    EnableAmplitude:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ConstraintForce
+    Force:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 17230.0 mm*kg/s^2
+      group: Base
+    Label:
       kind: Primitive
       paths:
         .:
           type: STRING
-          value: 4e3765b1-daf4-4f13-b4f7-c07062dc0c73
+          value: ConstraintForce004
+      group: Base
+    Reversed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Base
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: Constraint
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: ConstraintForce005
+  id: 4656
+  type_id: Fem::ConstraintForce
+  properties:
+    Direction:
+      kind: Primitive
+      paths:
+        .:
+          type: 'NULL'
+      group: ConstraintForce
+    EnableAmplitude:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ConstraintForce
+    Force:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 4620.0 mm*kg/s^2
+      group: Base
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ConstraintForce005
+      group: Base
+    Reversed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: Base
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: Constraint
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
       group: Base
 - name: SolverCcxTools001
-  id: 4623
+  id: 4657
   type_id: Fem::FemSolverObjectPython
   properties:
     AnalysisType:
@@ -58057,7 +58459,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: SolverCcxTools001
+          value: SolverCcxTools002
       group: Base
     MaterialNonlinearity:
       kind: Primitive
@@ -58099,7 +58501,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <femobjects.solver_ccxtools.SolverCcxTools object at 0x000001ED88AC2050>
+          value: <femobjects.solver_ccxtools.SolverCcxTools object at 0x000001DFAD0DE410>
           freecad_type: femobjects.solver_ccxtools.SolverCcxTools
       group: Base
     SplitInputWriter:
@@ -58158,374 +58560,8 @@ objects:
           type: STRING
           value: ''
       group: Solver
-- name: MaterialSolid001
-  id: 4624
-  type_id: App::MaterialObjectPython
-  properties:
-    Category:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: Solid
-      group: Material
-    Label:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: MaterialSolid001
-      group: Base
-    Proxy:
-      kind: Unknown
-      paths:
-        .:
-          type: STRING
-          value: <femobjects.material_common.MaterialCommon object at 0x000001EE2A05C6D0>
-          freecad_type: femobjects.material_common.MaterialCommon
-      group: Base
-    Suppressed:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: Base
-- name: FEMMeshGmsh001
-  id: 4625
-  type_id: Fem::FemMeshShapeBaseObjectPython
-  properties:
-    Algorithm2D:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: Automatic
-      group: Mesh Parameters
-    Algorithm3D:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: Automatic
-      group: Mesh Parameters
-    CharacteristicLengthMax:
-      kind: Primitive
-      paths:
-        .:
-          type: QUANTITY
-          value: 0.0 mm
-      group: Mesh Parameters
-    CharacteristicLengthMin:
-      kind: Primitive
-      paths:
-        .:
-          type: QUANTITY
-          value: 0.1 mm
-      group: Mesh Parameters
-    CoherenceMesh:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: true
-      group: Mesh Parameters
-    ElementDimension:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: From Shape
-      group: Mesh Parameters
-    ElementOrder:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: 1st
-      group: Mesh Parameters
-    FemMesh:
-      kind: Unknown
-      paths:
-        .:
-          type: STRING
-          value: "========================== Dump contents of mesh ==========================\n\
-            \n1) Total number of nodes:      \t898\n2) Total number of edges:    \
-            \  \t906\n3) Total number of faces:      \t1696\n4) Total number of polygons:\
-            \   \t0\n5) Total number of volumes:    \t2277\n6) Total number of polyhedrons:\t\
-            0\n\n7) Total number of linear edges:\t906\n8) Total number of linear\
-            \ faces:\t1696\n8.1) Number of linear triangles:  \t1696\n8.2) Number\
-            \ of linear quadrangles:\t0\n9) Total number of linear volumes:\t2277\n\
-            9.1) Number of linear hexahedrons: \t0\n9.2) Number of linear tetrahedrons:\t\
-            2277\n9.3) Number of linear prisms:      \t0\n9.4) Number of linear pyramids:\
-            \    \t0\n\n10) Total number of quadratic edges:\t0\n11) Total number\
-            \ of quadratic faces:\t0\n12) Total number of quadratic volumes:\t0\n\n\
-            ===========================================================================\n"
-          freecad_type: Fem.FemMesh
-      group: FEM Mesh
-    GeometryTolerance:
-      kind: Primitive
-      paths:
-        .:
-          type: FLOAT
-          value: 1.0e-06
-      group: Mesh Parameters
-    GroupsOfNodes:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: true
-      group: Mesh Parameters
-    HighOrderOptimize:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: None
-      group: Mesh Parameters
-    Label:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: FEMMeshGmsh001
-      group: Base
-    MeshSizeFromCurvature:
-      kind: Primitive
-      paths:
-        .:
-          type: INT
-          value: 5
-      group: Mesh Parameters
-    OptimizeNetgen:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: Mesh Parameters
-    OptimizeStd:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: true
-      group: Mesh Parameters
-    Placement:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: 0.0 mm
-        Base.y:
-          type: QUANTITY
-          value: 0.0 mm
-        Base.z:
-          type: QUANTITY
-          value: 0.0 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 0.0 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: 0.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: 0.0
-        Rotation.Axis.z:
-          type: FLOAT
-          value: 1.0
-      group: Base
-    Proxy:
-      kind: Unknown
-      paths:
-        .:
-          type: STRING
-          value: <femobjects.mesh_gmsh.MeshGmsh object at 0x000001EE31075E90>
-          freecad_type: femobjects.mesh_gmsh.MeshGmsh
-      group: Base
-    RecombinationAlgorithm:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: Simple
-      group: Mesh Parameters
-    Recombine3DAll:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: Mesh Parameters
-    RecombineAll:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: Mesh Parameters
-    SecondOrderLinear:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: Mesh Parameters
-    Shape:
-      kind: Unknown
-      paths:
-        .:
-          type: STRING
-          value: <Part::Feature>
-          freecad_type: Part.Feature
-      group: FEM Mesh
-    SubdivisionAlgorithm:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: None
-      group: Mesh Parameters
-    Suppressed:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: Base
-- name: ConstraintFixed001
-  id: 4626
-  type_id: Fem::ConstraintFixed
-  properties:
-    Label:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: ConstraintFixed001
-      group: Base
-    Scale:
-      kind: Primitive
-      paths:
-        .:
-          type: FLOAT
-          value: 1.0
-      group: Constraint
-    Suppressed:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: Base
-- name: ConstraintForce002
-  id: 4627
-  type_id: Fem::ConstraintForce
-  properties:
-    Direction:
-      kind: Primitive
-      paths:
-        .:
-          type: 'NULL'
-      group: ConstraintForce
-    EnableAmplitude:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: ConstraintForce
-    Force:
-      kind: Primitive
-      paths:
-        .:
-          type: QUANTITY
-          value: 17230.0 mm*kg/s^2
-      group: Base
-    Label:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: ConstraintForce002
-      group: Base
-    Reversed:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: true
-      group: Base
-    Scale:
-      kind: Primitive
-      paths:
-        .:
-          type: FLOAT
-          value: 1.0
-      group: Constraint
-    Suppressed:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: Base
-- name: ConstraintForce003
-  id: 4628
-  type_id: Fem::ConstraintForce
-  properties:
-    Direction:
-      kind: Primitive
-      paths:
-        .:
-          type: 'NULL'
-      group: ConstraintForce
-    EnableAmplitude:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: ConstraintForce
-    Force:
-      kind: Primitive
-      paths:
-        .:
-          type: QUANTITY
-          value: 4620.0 mm*kg/s^2
-      group: Base
-    Label:
-      kind: Primitive
-      paths:
-        .:
-          type: STRING
-          value: ConstraintForce003
-      group: Base
-    Reversed:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: true
-      group: Base
-    Scale:
-      kind: Primitive
-      paths:
-        .:
-          type: FLOAT
-          value: 1.0
-      group: Constraint
-    Suppressed:
-      kind: Primitive
-      paths:
-        .:
-          type: BOOL
-          value: false
-      group: Base
 - name: CCX_Results001
-  id: 4629
+  id: 4658
   type_id: Fem::FemResultObjectPython
   properties:
     Eigenmode:
@@ -62911,153 +62947,13 @@ objects:
           .:
             type: INT
             value: 870
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 871
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 872
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 873
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 874
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 875
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 876
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 877
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 878
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 879
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 880
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 881
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 882
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 883
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 884
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 885
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 886
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 887
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 888
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 889
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 890
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 891
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 892
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 893
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 894
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 895
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 896
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 897
-      - kind: Primitive
-        paths:
-          .:
-            type: INT
-            value: 898
       group: NodeData
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <femobjects.result_mechanical.ResultMechanical object at 0x000001EE2A07E890>
+          value: <femobjects.result_mechanical.ResultMechanical object at 0x000001DFAD02F550>
           freecad_type: femobjects.result_mechanical.ResultMechanical
       group: Base
     ResultType:
@@ -63075,7 +62971,7 @@ objects:
           value: 0.0
       group: Data
 - name: CCX_Results_Mesh001
-  id: 4630
+  id: 4659
   type_id: Fem::FemMeshObjectPython
   properties:
     FemMesh:
@@ -63084,12 +62980,12 @@ objects:
         .:
           type: STRING
           value: "========================== Dump contents of mesh ==========================\n\
-            \n1) Total number of nodes:      \t898\n2) Total number of edges:    \
+            \n1) Total number of nodes:      \t870\n2) Total number of edges:    \
             \  \t0\n3) Total number of faces:      \t0\n4) Total number of polygons:\
-            \   \t0\n5) Total number of volumes:    \t2277\n6) Total number of polyhedrons:\t\
+            \   \t0\n5) Total number of volumes:    \t2267\n6) Total number of polyhedrons:\t\
             0\n\n7) Total number of linear edges:\t0\n8) Total number of linear faces:\t\
-            0\n9) Total number of linear volumes:\t2277\n9.1) Number of linear hexahedrons:\
-            \ \t0\n9.2) Number of linear tetrahedrons:\t2277\n9.3) Number of linear\
+            0\n9) Total number of linear volumes:\t2267\n9.1) Number of linear hexahedrons:\
+            \ \t0\n9.2) Number of linear tetrahedrons:\t2267\n9.3) Number of linear\
             \ prisms:      \t0\n9.4) Number of linear pyramids:    \t0\n\n10) Total\
             \ number of quadratic edges:\t0\n11) Total number of quadratic faces:\t\
             0\n12) Total number of quadratic volumes:\t0\n\n===========================================================================\n"
@@ -63132,7 +63028,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <femobjects.mesh_result.MeshResult object at 0x000001EE289A4110>
+          value: <femobjects.mesh_result.MeshResult object at 0x000001DFAD022710>
           freecad_type: femobjects.mesh_result.MeshResult
       group: Base
     Suppressed:
@@ -63143,7 +63039,7 @@ objects:
           value: false
       group: Base
 - name: Pipeline_CCX_Results001
-  id: 4631
+  id: 4660
   type_id: Fem::FemPostPipeline
   properties:
     Data:
@@ -63151,17 +63047,17 @@ objects:
       paths:
         .:
           type: STRING
-          value: "vtkUnstructuredGrid (000001EE493E68B0)\n  Debug: Off\n  Modified\
-            \ Time: 8548\n  Reference Count: 1\n  Registered Events: (none)\n  Information:\
-            \ 000001EE44A6D010\n  Data Released: False\n  Global Release Data: Off\n\
-            \  UpdateTime: 0\n  Field Data:\n    Debug: Off\n    Modified Time: 8546\n\
+          value: "vtkUnstructuredGrid (000001DFC9CB9570)\n  Debug: Off\n  Modified\
+            \ Time: 137504\n  Reference Count: 1\n  Registered Events: (none)\n  Information:\
+            \ 000001DFAE53BB40\n  Data Released: False\n  Global Release Data: Off\n\
+            \  UpdateTime: 0\n  Field Data:\n    Debug: Off\n    Modified Time: 137502\n\
             \    Reference Count: 1\n    Registered Events: (none)\n    Number Of\
             \ Arrays: 0\n    Number Of Components: 0\n    Number Of Tuples: 0\n  Number\
-            \ Of Points: 898\n  Number Of Cells: 2277\n  Cell Data:\n    Debug: Off\n\
-            \    Modified Time: 8234\n    Reference Count: 1\n    Registered Events:\
-            \ \n      Registered Observers:\n        vtkObserver (000001EE2A59AEB0)\n\
+            \ Of Points: 870\n  Number Of Cells: 2267\n  Cell Data:\n    Debug: Off\n\
+            \    Modified Time: 137190\n    Reference Count: 1\n    Registered Events:\
+            \ \n      Registered Observers:\n        vtkObserver (000001DF0AD4E6A0)\n\
             \          Event: 33\n          EventName: ModifiedEvent\n          Command:\
-            \ 000001EE2926AB50\n          Priority: 0\n          Tag: 1\n    Number\
+            \ 000001DFAE518B00\n          Priority: 0\n          Tag: 1\n    Number\
             \ Of Arrays: 0\n    Number Of Components: 0\n    Number Of Tuples: 0\n\
             \    Copy Tuple Flags: ( 1 1 1 1 1 0 1 1 1 1 1 1 )\n    Interpolate Flags:\
             \ ( 1 1 1 1 1 0 0 1 1 1 1 0 )\n    Pass Through Flags: ( 1 1 1 1 1 1 1\
@@ -63169,10 +63065,10 @@ objects:
             \ (none)\n    TCoords: (none)\n    Tensors: (none)\n    GlobalIds: (none)\n\
             \    PedigreeIds: (none)\n    EdgeFlag: (none)\n    Tangents: (none)\n\
             \    RationalWeights: (none)\n    HigherOrderDegrees: (none)\n    ProcessIds:\
-            \ (none)\n  Point Data:\n    Debug: Off\n    Modified Time: 8544\n   \
-            \ Reference Count: 1\n    Registered Events: \n      Registered Observers:\n\
-            \        vtkObserver (000001EE2A599E60)\n          Event: 33\n       \
-            \   EventName: ModifiedEvent\n          Command: 000001EE2926AB50\n  \
+            \ (none)\n  Point Data:\n    Debug: Off\n    Modified Time: 137500\n \
+            \   Reference Count: 1\n    Registered Events: \n      Registered Observers:\n\
+            \        vtkObserver (000001DF0AD4E0A0)\n          Event: 33\n       \
+            \   EventName: ModifiedEvent\n          Command: 000001DFAE518B00\n  \
             \        Priority: 0\n          Tag: 1\n    Number Of Arrays: 19\n   \
             \ Array 0 name = Displacement\n    Array 1 name = Displacement Magnitude\n\
             \    Array 2 name = Tresca Stress\n    Array 3 name = Strain xx component\n\
@@ -63185,18 +63081,18 @@ objects:
             \ = Stress zz component\n    Array 15 name = Major Principal Stress\n\
             \    Array 16 name = Intermediate Principal Stress\n    Array 17 name\
             \ = Minor Principal Stress\n    Array 18 name = von Mises Stress\n   \
-            \ Number Of Components: 21\n    Number Of Tuples: 898\n    Copy Tuple\
+            \ Number Of Components: 21\n    Number Of Tuples: 870\n    Copy Tuple\
             \ Flags: ( 1 1 1 1 1 0 1 1 1 1 1 1 )\n    Interpolate Flags: ( 1 1 1 1\
             \ 1 0 0 1 1 1 1 0 )\n    Pass Through Flags: ( 1 1 1 1 1 1 1 1 1 1 1 1\
             \ )\n    Scalars: (none)\n    Vectors: (none)\n    Normals: (none)\n \
             \   TCoords: (none)\n    Tensors: (none)\n    GlobalIds: (none)\n    PedigreeIds:\
             \ (none)\n    EdgeFlag: (none)\n    Tangents: (none)\n    RationalWeights:\
             \ (none)\n    HigherOrderDegrees: (none)\n    ProcessIds: (none)\n  Bounds:\
-            \ \n    Xmin,Xmax: (-133.329, 77.5728)\n    Ymin,Ymax: (-5, 295)\n   \
-            \ Zmin,Zmax: (-6.6e-14, 65.6739)\n  Compute Time: 8577\n  Editable: false\n\
-            \  Number Of Points: 898\n  Point Coordinates: 000001EE465C62D0\n  PointLocator:\
-            \ 0000000000000000\n  CellLocator: 0000000000000000\n  Number Of Pieces:\
-            \ 1\n  Piece: -1\n  Ghost Level: 0\n\n"
+            \ \n    Xmin,Xmax: (-133.329, 77.5728)\n    Ymin,Ymax: (-5, 294.8)\n \
+            \   Zmin,Zmax: (-6.84e-13, 65.6739)\n  Compute Time: 137531\n  Editable:\
+            \ false\n  Number Of Points: 870\n  Point Coordinates: 000001DFC8554710\n\
+            \  PointLocator: 0000000000000000\n  CellLocator: 0000000000000000\n \
+            \ Number Of Pieces: 1\n  Piece: -1\n  Ghost Level: 0\n\n"
           freecad_type: vtkmodules.vtkCommonDataModel.vtkUnstructuredGrid
       group: Base
     Frame:
@@ -63253,7 +63149,7 @@ objects:
           value: 1.0
       group: Base
 - name: ccx_dat_file001
-  id: 4632
+  id: 4661
   type_id: App::TextDocument
   properties:
     Label:
@@ -63388,42 +63284,44 @@ occurrences:
   after: LCS
 - path: Fusion
   after: Group007
-- path: Fusion/Body030
+- path: Fusion/Group008
+  after: Fusion/lowerSupportL001
+- path: Fusion/lowerBridgeL001
+  after: Fusion/lowerCurveL001
+- path: Fusion/lowerBridgeR001
+  after: Fusion/upperBridgeR001
+- path: Fusion/lowerCrossBeamL001
+  after: Fusion/upperSupportL001
+- path: Fusion/lowerCrossBeamR001
+  after: Fusion/middleCrossBeamR001
+- path: Fusion/lowerCurveL001
+  after: Fusion/Group008
+- path: Fusion/lowerCurveR001
+  after: Fusion/lowerBridgeR001
+- path: Fusion/lowerSupportL001
   after: null
-- path: Fusion/Body031
-  after: Fusion/Body030
-- path: Fusion/Body032
-  after: Fusion/Body031
-- path: Fusion/Body033
-  after: Fusion/Body032
-- path: Fusion/Body034
-  after: Fusion/Body033
-- path: Fusion/Body035
-  after: Fusion/Body034
-- path: Fusion/Body036
-  after: Fusion/Body035
-- path: Fusion/Body037
-  after: Fusion/Body036
-- path: Fusion/Body038
-  after: Fusion/Body037
-- path: Fusion/Body039
-  after: Fusion/Body038
-- path: Fusion/Body040
-  after: Fusion/Body039
-- path: Fusion/Body041
-  after: Fusion/Body040
-- path: Fusion/Body042
-  after: Fusion/Body041
-- path: Fusion/Body043
-  after: Fusion/Body042
-- path: Fusion/Body044
-  after: Fusion/Body043
-- path: Fusion/Body045
-  after: Fusion/Body044
-- path: Fusion/Body046
-  after: Fusion/Body045
-- path: Fusion/Body047
-  after: Fusion/Body046
+- path: Fusion/lowerSupportR001
+  after: Fusion/lowerCurveR001
+- path: Fusion/middleCrossBeamL001
+  after: Fusion/upperCrossBeamL001
+- path: Fusion/middleCrossBeamR001
+  after: Fusion/upperCrossBeam001
+- path: Fusion/upperBridgeL001
+  after: Fusion/lowerBridgeL001
+- path: Fusion/upperBridgeR001
+  after: Fusion/upperCurveR001
+- path: Fusion/upperCrossBeam001
+  after: Fusion/middleCrossBeamL001
+- path: Fusion/upperCrossBeamL001
+  after: Fusion/lowerCrossBeamL001
+- path: Fusion/upperCurveL001
+  after: Fusion/upperBridgeL001
+- path: Fusion/upperCurveR001
+  after: Fusion/upperSupportR001
+- path: Fusion/upperSupportL001
+  after: Fusion/upperCurveL001
+- path: Fusion/upperSupportR001
+  after: Fusion/lowerCrossBeamR001
 - path: Group003
   after: Sketch020
 - path: Group003/Group
@@ -64229,23 +64127,23 @@ occurrences:
 - path: Group007/Analysis001
   after: Group007/Analysis
 - path: Group007/Analysis001/CCX_Results001
-  after: Group007/Analysis001/ConstraintForce003
+  after: Group007/Analysis001/SolverCcxTools001
 - path: Group007/Analysis001/CCX_Results001/CCX_Results_Mesh001
   after: null
-- path: Group007/Analysis001/ConstraintFixed001
+- path: Group007/Analysis001/ConstraintFixed002
   after: Group007/Analysis001/FEMMeshGmsh001
-- path: Group007/Analysis001/ConstraintForce002
-  after: Group007/Analysis001/ConstraintFixed001
-- path: Group007/Analysis001/ConstraintForce003
-  after: Group007/Analysis001/ConstraintForce002
+- path: Group007/Analysis001/ConstraintForce004
+  after: Group007/Analysis001/ConstraintFixed002
+- path: Group007/Analysis001/ConstraintForce005
+  after: Group007/Analysis001/ConstraintForce004
 - path: Group007/Analysis001/FEMMeshGmsh001
   after: Group007/Analysis001/MaterialSolid001
 - path: Group007/Analysis001/MaterialSolid001
-  after: Group007/Analysis001/SolverCcxTools001
+  after: null
 - path: Group007/Analysis001/Pipeline_CCX_Results001
   after: Group007/Analysis001/CCX_Results001
 - path: Group007/Analysis001/SolverCcxTools001
-  after: null
+  after: Group007/Analysis001/ConstraintForce005
 - path: Group007/Analysis001/ccx_dat_file001
   after: Group007/Analysis001/Pipeline_CCX_Results001
 - path: LCS
