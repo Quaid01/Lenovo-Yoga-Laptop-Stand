@@ -13,6 +13,9 @@ My solution? To basically engineer a whole laptop stand in the hopes of relievin
 
 The most recent version of the stand is at (currently) a 15 degree incline with several rails underneath each cross-beam. There, attachments can be designed and swapped out for convenience, such as a fan or a pencil holder. Its also used to keep the cross-beams together, which will be important as all of the parts are separated so that they can fit on my Ender 3 Pro. 
 
+![A view of the rails](Images/Stand_underside.png)
+
+
 ### Attachments
 
 ![An attachable pencil holder](Images/Pencil_Holder.png)
