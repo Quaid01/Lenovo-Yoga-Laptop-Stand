@@ -1,3 +1,6 @@
+![The full designed stand](Images/Stand_Full.png)
+
+
 # Lenovo Yoga Laptop Stand
 
 ## The Problem
@@ -9,3 +12,11 @@ My solution? To basically engineer a whole laptop stand in the hopes of relievin
 ## Features
 
 The most recent version of the stand is at (currently) a 15 degree incline with several rails underneath each cross-beam. There, attachments can be designed and swapped out for convenience, such as a fan or a pencil holder. Its also used to keep the cross-beams together, which will be important as all of the parts are separated so that they can fit on my Ender 3 Pro. 
+
+### Attachments
+
+![An attachable pencil holder](Images/Pencil_Holder.png)
+A pencil holder, which can hold any similar shaped object. It slides in on the right side using the sliders underneath the stand.
+
+![Fan attachment for some arbitrary fan](Images/Arbitrary_Fan_Holder.png)
+An arbitrary fan attachment. It wasn't designed with any particular size in mind, but it can be easily modified to fit any size and fit in the stand at the same time.
